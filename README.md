@@ -5,9 +5,9 @@
 
 
 
-**About Me:**
+### About Me:
 
-Hi,I am pavanesh,an ambitious software developer,always in the awe of wonders of 0's and 1's could create,passionate about open source and software development with proven experience in web-frameworks,Android app development & Machine-learning and had huge passion for working on all the stuff related to technology. I like to tackle complex challenges head-on to deliver technically sound solutions with optimum efficiency.My Career objective is to utilize my skills and attributes to best and channelize them in proper direction for the enhancement in performance of the organization.
+A Computer Enthusiast always in the awe of wonders of 0's and 1's could create,passionate about open source and software development  . I like to tackle complex challenges head-on to deliver technically sound solutions with optimum efficiency.My Career objective is to utilize my skills and attributes to best and channelize them in proper direction for the enhancement in performance of the organization.
 
 
 ### Technologies and Frameworks I have worked with:
@@ -27,7 +27,7 @@ Hi,I am pavanesh,an ambitious software developer,always in the awe of wonders of
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br/>
 
-**Let's Connect 👋:**
+### Let's Connect 👋:
 
 <a href="https://www.linkedin.com/in/pavanesh-g"><img align="left" alt="pavanesh| Linkedin" width="40px" src="https://i.ibb.co/yRHbQyd/linkedin-icon.png" /></a>
  
