@@ -1,6 +1,12 @@
-"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+
+
+### Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 <br>
-### Hi there 👋, I'm [pavanesh](https://www.instagram.com/felix_felicis555/), a passionate self-taught Developer 🚀 from India.
+
+### Hi there 👋, I'm [pavanesh](https://www.instagram.com/felix_felicis555 ) a passionate self-taught Developer 🚀 from India.
  <img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="400" height="320" />
 
 
@@ -27,19 +33,40 @@ A Computer Enthusiast always in the awe of wonders of 0's and 1's could create,p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br/>
 
+
+
 ### Let's Connect 👋:
 
-<a href="https://www.linkedin.com/in/pavanesh-g"><img align="left" alt="pavanesh| Linkedin" width="40px" src="https://i.ibb.co/yRHbQyd/linkedin-icon.png" /></a>
- 
-<a href="https://github.com/FelixFelicis555"><img align="left" alt="pavanesh| GitHub" width="40px" src="https://i.ibb.co/FK6FGy7/github-icon.png" /></a>
-  
-<a href="mailto:pavanesh5444@gmail.com"><img align="left" alt="pavanesh| Email" width="40px" src="https://i.ibb.co/dDsXKG4/email-icon.png" /></a>
- 
-<a href="https://www.facebook.com/pavanesh.nandu"><img align="left" alt="pavanesh| facebook" width="40px" src="https://i.ibb.co/k4nCHtk/facebook-icon.png" /></a>
-<a href="https://instagram.com/felix_felicis555">   <img align="left" alt="Felix_Felicis555| Instagram" width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+<div align="center">
+<a href="https://github.com/FelixFelicis555" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Smart_pawi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/pragativerma" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/pavanesh-g" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/pavanesh.nandu" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/felix_felicis555" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://felixfelicis555.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+
+
+ 
+
 <br>
 <br>
+ </div>
 
 - 💬 Ask me about anything, I am happy to help anytime!
 - Open Source enthusiast
