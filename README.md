@@ -13,7 +13,7 @@
 
 ## I'm a  Fullstack Software Engineer, and LifeLong Learner❗️
 
-<img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="300" height="300" />
 <!--
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixFelicis555&theme=dracula&column=4&margin-w=15&margin-h=15" alt="FelixFelicis555" /></a></p>
 --->
