@@ -7,8 +7,11 @@
 
 
 ### Hi there 👋, I'm [Pavanesh](https://www.instagram.com/felix_felicis555/), a passionate self-taught Developer 🚀 from India.
-Enthusiastic <a href="https://felixfelicis555.github.io/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
-excellent organizational skills, a clear understanding of frontend, backend, and project management
+
+
+[![Website](https://img.shields.io/website?label=pavanesh-portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://felixfelicis555.github.io/)
+
+## I'm a  Fullstack Software Engineer, and LifeLong Learner❗️
 
 <img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="400" height="300" />
 <!--
@@ -40,14 +43,14 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <br>
 
 ### Some more about me
-- 🔭 I’m currently working on Web Development using Node.js and Express 
+- 🔭 I’m currently working on as FullStack Software Engineer @Uber🚙!
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with React
+- 💻 I’m looking to landing my first job in the industry!
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pavanesh-g/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Tabs >>>>> Spaces
+- ⚡ Fun fact:  I ❤️ 🎶 🏏 🏖️
 
 
 # Github Activity📊:
