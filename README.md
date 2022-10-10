@@ -1,10 +1,11 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+ 
+
 </div>
 
-<p>"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine</p><br>
-
+*"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine*
 
 ### Hi there 👋, I'm [Pavanesh](https://www.instagram.com/felix_felicis555/), a passionate self-taught Developer 🚀 from India.
 
