@@ -18,7 +18,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/pavanesh?label=Follow)](https://twitter.com/intent/follow?screen_name=felixfelicis555)
 [![Linkedin: pavanesh](https://img.shields.io/badge/-pavanesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanesh-g//)](https://www.linkedin.com/in/pavanesh-g/)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
+
 <!--
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixFelicis555&theme=dracula&column=4&margin-w=15&margin-h=15" alt="FelixFelicis555" /></a></p>
 --->
@@ -26,6 +26,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 
 <h2> Tools and Technologies </h2>
  <h3>Datastructures and Algorithms</h3>
@@ -101,6 +103,8 @@
 
  
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ###  👩🏾‍💻 About me
 - 🔭 I’m currently working on as FullStack Software Engineer @Uber🚙!
@@ -111,6 +115,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pavanesh-g/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I ❤️ 🎶 🏏 🏖️
+
+
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/pavanesh-g/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
