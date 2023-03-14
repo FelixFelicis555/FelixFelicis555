@@ -12,9 +12,13 @@
 
 [![Website](https://img.shields.io/website?label=pavanesh-portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://felixfelicis555.github.io/)
 
-## I'm a  Fullstack Software Engineer, and LifeLong Learner❗️
 
-<img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="300" height="300" />
+## I'm a  Fullstack Software Engineer 👩🏾‍💻 and LifeLong Learner❗️
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/pavanesh?label=Follow)](https://twitter.com/intent/follow?screen_name=felixfelicis555)
+[![Linkedin: pavanesh](https://img.shields.io/badge/-pavanesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanesh-g//)](https://www.linkedin.com/in/pavanesh-g/)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 <!--
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixFelicis555&theme=dracula&column=4&margin-w=15&margin-h=15" alt="FelixFelicis555" /></a></p>
 --->
@@ -98,7 +102,7 @@
  
 
 
-### Some more about me
+###  👩🏾‍💻 About me
 - 🔭 I’m currently working on as FullStack Software Engineer @Uber🚙!
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
@@ -108,7 +112,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I ❤️ 🎶 🏏 🏖️
 
-<h3 align="left">Connect with me:</h3>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/pavanesh-g/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
 <p align="center">
 <a href="https://dev.to/felixfelicis555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/felixfelicis555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixfelicis555" height="30" width="40" /></a>
@@ -169,4 +174,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://undo.io/media/uploads/files/Frustrated_programmer.gif
 -->
