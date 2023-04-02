@@ -32,9 +32,13 @@
 
 ###  👩🏾‍💻 About me
 - 🔭 I’m currently working on as FullStack Software Engineer @Uber🚙!
+
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
+
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
+
 - 💻 I’m looking to landing my first job in the industry!
+
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pavanesh-g/)
 - 😄 Pronouns: He/Him
