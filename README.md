@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif" width="300" height= "300" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif" align="right"/>
 
 
 ###  👩🏾‍💻 About me
