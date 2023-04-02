@@ -122,7 +122,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/pavanesh-g/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## 📫 Find me around the web 🌎 <a href="https://www.linkedin.com/in/pavanesh-g/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <p align="center">
 <a href="https://dev.to/felixfelicis555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
